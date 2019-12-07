@@ -12,4 +12,4 @@ Masterlist of Engineering or Data Science blogs
 * Uber Engineering: [https://eng.uber.com/](https://eng.uber.com/)
 * Yelp Engineering: [http://engineeringblog.yelp.com/](http://engineeringblog.yelp.com/)
 * LinkedIn Engineering: [http://engineering.linkedin.com/blog](http://engineering.linkedin.com/blog)
-
+* Tech book reading 2020: [http://bit.ly/tech_read_2020](http://bit.ly/tech_read_2020)
