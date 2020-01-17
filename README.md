@@ -10,6 +10,7 @@ Masterlist of Engineering or Data Science blogs
 * Square Engineering: [https://developer.squareup.com/blog/](https://developer.squareup.com/blog/)
 * Netflix Tech: [http://techblog.netflix.com/](http://techblog.netflix.com/)
 * Uber Engineering: [https://eng.uber.com/](https://eng.uber.com/) | [@UberEng](https://twitter.com/UberEng)
+* Uber AI: [http://uber.ai/](http://uber.ai/)
 * Yelp Engineering: [http://engineeringblog.yelp.com/](http://engineeringblog.yelp.com/)
 * LinkedIn Engineering: [http://engineering.linkedin.com/blog](http://engineering.linkedin.com/blog)
 * Microsoft AI Research: [https://www.microsoft.com/en-us/research/research-area/artificial-intelligence](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence)
